@@ -1,0 +1,69 @@
+/*this is the CSS files for the Samplw website.com*/
+/*body style CSS rule*/
+body.container{width: 960px;
+margin:0 auto;
+background:#7ff707;}
+
+/*header css rule*/
+header{background-color: #41f4ca;
+}
+
+/*navigation css rule*/
+#navigation{background-color: #418ef4;
+width: 100%;
+height: 35px;
+margin: 5px 0;}
+
+/*navigation ul*/
+#navigation ul{list-style-type:none;
+margin:0;
+padding:0;
+}
+
+/*navigation li*/
+#navigation li{float: left;
+border-right: 2px solid #c5c8d6;}
+
+/*navigation anchor tag*/
+#navigation a:link{display: block;
+width: 150px;
+font-weight: bold;
+color: #FFFFFF;
+text-align: center;
+padding:5px;
+text-decoration:none;
+}
+navigaction a:hover{color:#f404a4;}
+
+/*aside sidebar css rule*/
+#sidebar{background: #f707a3;
+width: 250px;
+float: left;
+padding: 10px;
+}
+
+/*article css rule*/
+
+section.content{width: 650px;
+float: right;
+background: #e3f707;
+padding: 15px;
+margin-bottom: 5px;
+height:663px;}
+
+/*footer css rule*/
+#footer{clear: both;
+background:#41f4ca;
+padding: 10px;
+text-align: center;
+color: #f70707;
+font-weight: bold;}
+
+/*image css rule*/
+img{max-width:100%;
+margin:0 auto;
+display: block;}
+
+img.sidebarimage{display: block;}
+
+
